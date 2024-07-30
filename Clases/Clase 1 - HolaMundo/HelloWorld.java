@@ -1,3 +1,9 @@
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
 /**
  * Esto vendria siendo nuestro primer programa en Java, el famoso Hola Mundo o HelloWorld, aqui vemos tambien un poco
  * de la estructura de lo que viene siendo Java.
