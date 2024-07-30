@@ -1,3 +1,9 @@
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
 //CLASE #2 - Variables
 /*
 ¿Qué es un variable?
