@@ -1,4 +1,10 @@
-public class operadoresComparacion {
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
+public class operadores6Comparacion {
     public static void main(String[] args) {
         /*
         OPERADORES DE COMPARACIÓN
