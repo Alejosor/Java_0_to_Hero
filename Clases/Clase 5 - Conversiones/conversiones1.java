@@ -1,4 +1,10 @@
-public class conversiones {
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
+public class conversiones1 {
     public static void main(String[] args) {
         /*
         // CONVERSIONES //
