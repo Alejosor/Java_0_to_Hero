@@ -1,4 +1,10 @@
-public class conversionesStringsPrimitivos {
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
+public class conversiones2StringsPrimitivos {
     public static void main(String[] args) {
         // Conversiones de Strings a Primitivos
 
