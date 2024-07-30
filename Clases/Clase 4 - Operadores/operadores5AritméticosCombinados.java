@@ -1,4 +1,10 @@
-public class operadoresAritméticosCombinados {
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
+public class operadores5AritméticosCombinados {
     public static void main(String[] args) {
         /*
         OPERADORES ARITMÉTICOS COMBINADOS

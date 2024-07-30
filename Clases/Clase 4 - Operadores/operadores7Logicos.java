@@ -1,4 +1,10 @@
-public class operadoresLogicos {
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
+public class operadores7Logicos {
     public static void main(String[] args) {
         /*
         OPERADORES LÓGICOS

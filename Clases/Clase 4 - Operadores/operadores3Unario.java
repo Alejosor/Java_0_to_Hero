@@ -1,4 +1,10 @@
-public class operadoresUnario {
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
+public class operadores3Unario {
     public static void main(String[] args) {
         //Operadores Unarios
         /*

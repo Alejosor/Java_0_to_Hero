@@ -1,4 +1,10 @@
-public class operadoresAritmeticos {
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
+public class operadores2Aritmeticos {
     public static void main(String[] args) {
         /*
         OPERADORES ARITMÉTICOS

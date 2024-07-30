@@ -1,4 +1,10 @@
-public class operadoresAritméticosIncrementales {
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
+public class operadores4AritméticosIncrementales {
     public static void main(String[] args) {
         //Operadores Aritméticos incrementales (Unarios)
         /*

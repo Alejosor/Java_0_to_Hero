@@ -1,4 +1,10 @@
-public class operadoresAsignacion {
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
+public class operadores1Asignacion {
     public static void main(String[] args){
         /*
         OPERADORES
