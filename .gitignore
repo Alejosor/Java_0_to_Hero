@@ -1,1 +1,11 @@
 **/.DS_Store
+.vscode/
+*.txt
+*.xml
+*.iml
+*.json
+!stats.json
+.idea/
+pubspec.yaml
+pubspec.lock
+.venv
