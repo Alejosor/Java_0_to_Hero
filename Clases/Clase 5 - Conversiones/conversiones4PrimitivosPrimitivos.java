@@ -1,4 +1,10 @@
-public class conversionesPrimitivosPrimitivos {
+/* ╔══════════════════════════════════════╗
+   ║ Autor: Alejandro Soriano             ║
+   ║ Perfil: https://github.com/Alejosor  ║
+   ╚══════════════════════════════════════╝
+*/
+
+public class conversiones4PrimitivosPrimitivos {
     public static void main(String[] args) {
         // Conversiones de Primitivos a Primitivos
         //Declaración de variables

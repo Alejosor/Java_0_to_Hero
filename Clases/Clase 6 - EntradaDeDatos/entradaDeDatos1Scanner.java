@@ -6,7 +6,7 @@
 
 import java.util.Scanner;
 
-public class entradaDeDatosScanner {
+public class entradaDeDatos1Scanner {
 
     // private static Scanner ingreso;
     // Se declara el objeto Scanner como una variable de instancia, otra manera de trabajar con Scanner
