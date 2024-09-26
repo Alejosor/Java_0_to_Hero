@@ -3,12 +3,6 @@
 ### Ruta de estudio con clases y ejercicios para aprender Java, a tu ritmo y colaborando.
 **Se emplea la metodología de estudio de Mouredev, la cual se utiliza en su sección de retos de programación. Aquí dejo un enlace directo a su repositorio: [Retos de Programación](https://github.com/mouredev/roadmap-retos-programacion)**
 
-> [!NOTE]
-> ## Últimas Actualizaciones
-> ### 2024-07-26
-> - **Clase #5:** [Conversiones](https://github.com/Alejosor/Java_0_to_Hero/tree/main/Clases/Clase%205%20-%20Conversiones)
-> - **Ejercicio #5:** [Conversiones](https://github.com/Alejosor/Java_0_to_Hero/blob/main/Ejercicios/Ejercicio%205/ejercicio5.md)
-
 ## Información importante ⚠️‼️
 * Cada semana se publica mínimo una nueva clase y un ejercicio de la misma, repartidos en carpetas numeradas por lecciones.
 * Las clases y ejercicios siguen un orden basado en el grado de dificultad de los mismos, empezando desde lo más básico hasta lo más avanzado del lenguaje.
